@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Trade+Winds);
+@import url(http://fonts.googleapis.com/css?family=Henny+Penny);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body {
+  background-image: url("../images/bg.jpg");
+  background-size: 100%;
+}
+
+h1 {
+  color: blue;
+  background-color: tan;
+  font-family: 'Trade Winds', cursive;
+  font-size: 55px;
+  padding: 5px;
+  opacity: 0.25;
+}
+
+h3{
+  border: 1px solid green;
+  padding: 2px;
+  background-color: grey;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Henny Penny', cursive;
+  font-size: 30px;
+
+}
+
+
+ul {
+  color: green;
+
+}
+
+
+li:nth-child(2n){
+  color: blue;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}

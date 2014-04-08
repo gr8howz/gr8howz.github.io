@@ -1,4 +1,6 @@
-gr8howz.github.io
-=================
+# Porfolio for Jason Greathouse
 
-Github Porfolio
+### Technologis in this repo
+* HTML
+* CSS
+* Javascript

@@ -1,6 +1,6 @@
 # Porfolio for Jason Greathouse
 
-### Technologis in this repo
+### Technologies used
 * HTML
 * CSS
 * Javascript

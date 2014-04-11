@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Trade+Winds);
+@import url(http://fonts.googleapis.com/css?family=Inder);
 @import url(http://fonts.googleapis.com/css?family=Henny+Penny);
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
@@ -12,7 +12,7 @@ h1 {
   margin-right: auto;
   color: blue;
   background-color: tan;
-  font-family: 'Trade Winds', cursive;
+  font-family: 'Inder', sans-serif;
   font-size: 55px;
   padding: 5px;
   opacity: 0.5;

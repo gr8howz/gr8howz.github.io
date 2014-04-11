@@ -1,9 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Inder);
-@import url(http://fonts.googleapis.com/css?family=Henny+Penny);
-@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body {
-  background-image: url("../images/bg.jpg");
+  background-image: url("../images/swirl.png");
   background-size: cover;
 }
 
@@ -24,7 +21,6 @@ h3{
   background-color: grey;
   color: white;
   border-radius: 10px;
-  font-family: 'Henny Penny', cursive;
   font-size: 30px;
 
 }
@@ -38,6 +34,5 @@ ul {
 
 li:nth-child(2n){
   color: blue;
-  font-family: 'Shadows Into Light', cursive;
   font-size: 25px;
 }

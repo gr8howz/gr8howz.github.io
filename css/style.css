@@ -2,7 +2,6 @@
 body {
   background-image: url("../images/swirl.png");
   font-family: 'Inder', sans-serif;
-  text-align: center;
 
 
 }
@@ -12,6 +11,8 @@ h1 {
   font-size: 55px;
   padding: 5px;
   opacity: 0.5;
+  text-align: center;
+
 }
 
 h3{
